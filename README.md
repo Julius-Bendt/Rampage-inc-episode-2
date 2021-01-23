@@ -1,7 +1,7 @@
 # Rampage inc - Episode 2
 
 ## Description:
-Rampage inc - Episode 2 was developed in 2019 for a gamejam created by Gamelab, UngAalborg.
+Rampage inc - Episode 2 was developed in 2020 for a gamejam created by Gamelab, UngAalborg.
 The theme was: "Now you see me, now you don't". 
 
 ### WARNING:
