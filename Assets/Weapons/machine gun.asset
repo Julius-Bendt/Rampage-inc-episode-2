@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 985b9cfe59a8dbb479c7b8b89b7581c1, type: 3}
+  m_Name: machine gun
+  m_EditorClassIdentifier: 
+  maxAmmo: 20
+  fireRate: 0.1
+  attackDist: 8
+  autoFire: 1
+  bullet: {fileID: 1599918060369916483, guid: e2d060838a9e506439464504c28c0225, type: 3}
+  muzzle: {fileID: 0}
+  gun: {fileID: 5129031586755195862, guid: c0a68fd41bc089b4aad6f03bc26111dd, type: 3}
+  shakeTime: 0.05
+  destroyAfterThrow: 0
+  melee: 0
+  swingTime: 0
+  swingRotate: {x: 0, y: 0, z: 0}
+  fireClip:
+  - {fileID: 8300000, guid: 89a09f85ffcdc7448b8f16b14e148a90, type: 3}

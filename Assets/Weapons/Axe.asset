@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 985b9cfe59a8dbb479c7b8b89b7581c1, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  maxAmmo: 2
+  fireRate: 0.5
+  attackDist: 1
+  autoFire: 0
+  bullet: {fileID: 0}
+  muzzle: {fileID: 0}
+  gun: {fileID: 8701825621079244094, guid: 6b01ff7ea8c11ea44b7dfd8c475a0a37, type: 3}
+  shakeTime: 0.02
+  destroyAfterThrow: 0
+  melee: 1
+  swingTime: 0.5
+  swingRotate: {x: 0, y: 0, z: -45}
+  fireClip:
+  - {fileID: 8300000, guid: 34cb73441210ecb4d877e140c5388142, type: 3}
+  - {fileID: 8300000, guid: f3314abe10196e84796902e565730fc1, type: 3}
