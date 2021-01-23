@@ -1,9 +1,11 @@
-# {NAME}
+# Rampage inc - Episode 2
 
 ## Description:
-{NAME} was developed in {YEAR}.  
+Rampage inc - Episode 2 was developed in 2019 for a gamejam created by Gamelab, UngAalborg.
+The theme was: "Now you see me, now you don't". 
 
-As in the other repositories in "dead projects", this project is, as the name suggests, dead. I wont be updating or maintaining it.
+### WARNING:
+this project is dead. I wont be updating or maintaining it.
 The code in the project does not follow my current style of coding, or up to any standards.
 the code is in other words, spaghetti code and properly filled with bugs. 
 
@@ -12,17 +14,6 @@ the code is in other words, spaghetti code and properly filled with bugs.
 Either clone the reposity, or import the unity package file.<br>
 The latest unity version tested: UNITY_2019.4.11f1<br>
 However, newer version *should* work. 
-
-## Running:
-Check that the program is not corrupt or tampered with by using the the below checksums:
-
-### Demo:
-Hashing method | Value
------------- | -------------
-CRC32 | C57B042F
-CRC64 | 15A119EBF9944446
-SHA1 | 4A4DBB7871D2D6F9A796F6FAFE3577ECFE3961D9
-SHA256 | 66652E971F56DE4A2E11F085480A4283BE3FDB4118E6C56DACEFB335418A011E
 
 
 
